@@ -5,6 +5,7 @@ mcr.microsoft.com/dotnet/aspnet:6.0
 mcr.microsoft.com/dotnet/aspnet:8.0
 gitea/gitea:latest
 gogs/gogs:latest
+docker.n8n.io/n8nio/n8n:latest
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
