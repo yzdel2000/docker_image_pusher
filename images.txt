@@ -1,8 +1,6 @@
-mariadb:10.11
+mariadb:11.8
 postgres:15-alpine
 redis:alpine
-mcr.microsoft.com/dotnet/aspnet:6.0
-mcr.microsoft.com/dotnet/aspnet:8.0
 gitea/gitea:latest
 gogs/gogs:latest
 docker.n8n.io/n8nio/n8n:latest
