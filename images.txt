@@ -4,7 +4,7 @@ redis:alpine
 gitea/gitea:latest
 gogs/gogs:latest
 docker.n8n.io/n8nio/n8n:latest
-#mattermost/mattermost-team-edition:latest
+# mattermost/mattermost-team-edition:latest
 rabbitmq:management-alpine
 searxng/searxng:latest
 valkey/valkey:9-alpine
